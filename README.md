@@ -15,7 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I’m currently working on: A real-time chat application and a digital product marketplace.<br>👯 I’m looking to collaborate on: Open-source React.js projects or beginner-friendly MERN stack repositories.<br>🤝 I’m looking for help with: Advanced Node.js backend architecture and scaling databases.<br>🌱 I’m currently learning: Three.js for 3D web experiences and integrating AI into web apps.<br>💬 Ask me about: JavaScript, React.js components, and backend development logic.<br>⚡ Fun fact: I treat debugging like a detective game—and I always find the culprit (eventually).<br>
+Computer Science (AI & ML) student with a strong passion for Data Analytics and Data-Driven Decision Making. Skilled in analyzing complex datasets, identifying key trends, and translating data into actionable business insights.
+
+
+
+Core Skills & Tools:
+
+Data Analysis & Visualization: Advanced Excel, SQL, Data Cleaning, EDA (Exploratory Data Analysis)
+
+
+
+Programming & ML: Python, Java, C++, Machine Learning, Deep Learning basics
+
+
+
+Tools & Platforms: Git, GitHub, VS Code, MS Office
+
+Web Basics: HTML, CSS, JavaScript, React
+
+Eager to apply analytical, technical, and problem-solving skills to real-world data challenges in an impactful Data Analyst role.
 
 
 ## 🌐 Socials:
